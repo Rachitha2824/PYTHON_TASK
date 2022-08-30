@@ -1,3 +1,4 @@
+```python
 import speech_recognition as sr
 import pyttsx3
 import pywhatkit
@@ -214,3 +215,4 @@ print("hello, i am mini alexa how can i help you ??")
 engine_talk ("hello i am mini alexa how can i help you ")
 while True:
 run_alexa()
+```
